@@ -23,3 +23,5 @@ As respostas obtidas detalharam os cenários onde poderíamos verificar apenas a
 
 ## 4. Validação na IDE
 Abaixo está a captura de tela do ambiente de desenvolvimento (VS Code) comprovando que o código modernizado foi estruturado e compilado com sucesso, sem apresentar erros de sintaxe ou de tipagem:
+(<img width="951" height="904" alt="Print Listagem" src="https://github.com/user-attachments/assets/f48b0586-93ee-4c72-84aa-4a276fa39efa" />
+)
